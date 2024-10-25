@@ -7,4 +7,4 @@ you can spam multiple clients
 go to the code to change the port
 
 
-if you found this helpful, it is very kind to give me star
+it is very kind of you to give me star if you found this repo useful
